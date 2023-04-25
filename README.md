@@ -6,11 +6,11 @@ Hi there
  About me in 30 Secs
 - 🔭 Psychology background  with 20 years’ experience
 - Counselling and Psychotherapy experience for 15 years
-- Security and Countering Radicalisation and Terrorism
-- 🌱 Transitioned to IT in Jan 2023
+- Security and Countering Radicalisation and Terrorism for 3 years
+- 🌱 Transitioned to IT in Jan 2022
 - 👯 I’m looking to collaborate on various projects
 - Love learning new skills. 
 - Fascinated by AI, prompting engineering and ethical dilemmas 
 - I’m currently working on preparing for the next level training – SQL and business analysis 
 - 😄 Pronouns: human
-- ⚡ Fun fact: Gen-X with a lots of interests  
+- ⚡ Fun fact: A Gen-X self-thought QA,  an open-source enthusiast and maintainer. i learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
