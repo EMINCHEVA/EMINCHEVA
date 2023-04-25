@@ -12,5 +12,6 @@ Hi there
 - Love learning new skills. 
 - Fascinated by AI, prompting engineering and ethical dilemmas 
 - I’m currently working on preparing for the next level training – SQL and business analysis 
-- 😄 Pronouns: human
+- 😄 Pronouns: HUMAN
+- 💬 ask me about anything, and I will be happy to help;
 - ⚡ Fun fact: A Gen-X self-thought QA,  an open-source enthusiast and maintainer. i learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
