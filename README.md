@@ -1,8 +1,9 @@
 Hi there
 
-#I am  El, a freshly made QA enthusiast with basic Python skills
 
-# About me in 30 Secs
+# I am  El, a freshly made QA enthusiast with basic Python skills
+
+ About me in 30 Secs
 - 🔭 Psychology background  with 20 years’ experience
 - Counselling and Psychotherapy experience for 15 years
 - Security and Countering Radicalisation and Terrorism
