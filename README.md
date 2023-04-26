@@ -1,7 +1,7 @@
 Hi there
 
 
-# I am  El, a freshly made QA enthusiast with basic Python skills
+# I am  El, a freshly selfmade QA enthusiast with basic Python skills
 
  About me in 30 Secs
 - 🔭 Psychology background  with 20 years’ experience
