@@ -4,7 +4,7 @@ Hi there
 # I am  El, a freshly self-made QA enthusiast with basic Python skills
 
  About me in 30 Secs
-- 🔭 Psychology background  with 20 years’ of experience
+- 🔭 Psychology background  with 20 years of experience
 - Counselling and Psychotherapy experience for 15 years
 - Security and Countering Radicalisation and Terrorism for 3 years
 - 🌱 Transitioned to IT in Jan 2022
